@@ -1,3 +1,2 @@
 # Projects
-
-All the Projects i have done over the years of my academic years
+Important projects covered from 2019-2023
